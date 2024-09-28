@@ -3,15 +3,27 @@
 我们的使命是用Java开发世界上最好的、高性能的、安全的、开源的（重点）数字货币交易系统。（请忽略我们的牛逼，因为牛逼吹得多了，可能慢慢就真的牛逼了）
 
 
+![image](https://github.com/victors9527/stock/blob/main/1.png)
 
-![](C:\Users\yunshuo\AppData\Roaming\marktext\images\2024-09-24-10-38-59-image.png)
+![image](https://github.com/victors9527/stock/blob/main/2.png)
 
-![](C:\Users\yunshuo\AppData\Roaming\marktext\images\2024-09-24-10-39-19-image.png)
+![image](https://github.com/victors9527/stock/blob/main/3.png)
 
-![](C:\Users\yunshuo\AppData\Roaming\marktext\images\2024-09-24-10-39-31-image.png)
+![image](https://github.com/victors9527/stock/blob/main/4.png)
 
-![](C:\Users\yunshuo\AppData\Roaming\marktext\images\2024-09-24-10-39-47-image.png)
 
-![](C:\Users\yunshuo\AppData\Roaming\marktext\images\2024-09-24-10-40-02-image.png)
+![image](https://github.com/victors9527/stock/blob/main/5.png)
 
-![](C:\Users\yunshuo\AppData\Roaming\marktext\images\2024-09-24-10-41-06-image.png)
+![image](https://github.com/victors9527/stock/blob/main/6.png)
+
+![image](https://github.com/victors9527/stock/blob/main/7.png)
+
+![image](https://github.com/victors9527/stock/blob/main/8.png)
+
+![image](https://github.com/victors9527/stock/blob/main/9.png)
+
+![image](https://github.com/victors9527/stock/blob/main/10.png)
+
+![image](https://github.com/victors9527/stock/blob/main/11.png)
+
+![image](https://github.com/victors9527/stock/blob/main/12.png)
